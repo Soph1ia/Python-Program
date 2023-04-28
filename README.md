@@ -12,7 +12,7 @@ git clone git@github.hpe.com:sofia-badalova/Python-Program.git
 
 _You can view the files on Binder_
 
-https://mybinder.org/v2/gh/Soph1ia/Python-Program/main 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soph1ia/Python-Program/main)
 
 ## Project Structure
 The project is divided into several chapters, each of which covers a different topic in Python programming. 
