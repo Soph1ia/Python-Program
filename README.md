@@ -28,15 +28,15 @@ Each chapter includes a set of tutorials and exercises that build upon the conce
 │   └── mini projects.ipynb
 ├── chapter-3/ OOP
 │   ├── introduction.ipynb
-│   ├── Object Oriented Programming.ipynb
+│   └── Object Oriented Programming.ipynb
 │
 ├── chapter-4/ Making A Website 
 │   ├── Step 1 : Introduction.ipynb
 │   ├── Step 2 : Understanding HTML and CSS.md 
-│   ├── Step 3 : Creating Content using HTML.md
+│   └── Step 3 : Creating Content using HTML.md
 │ 
 ├── chapter-5/ Understanding Github
-│   ├── About Github.md
+│   └── About Github.md
 │
 └── README.md
 ```
