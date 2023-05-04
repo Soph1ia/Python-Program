@@ -18,17 +18,25 @@ _You can view the files on Binder_
 The project is divided into several chapters, each of which covers a different topic in Python programming. 
 Each chapter includes a set of tutorials and exercises that build upon the concepts covered in previous chapters.
 ```bash
-├── chapter-1/
+├── chapter-1/ Learning Python
 │   ├── introduction.ipynb
 │   ├── introduction to python.ipynb
 │   └── exercises.ipynb
-├── chapter-2/
+├── chapter-2/ Projects
 │   ├── introduction.ipynb
 │   ├── packages.ipynb
 │   └── mini projects.ipynb
-├── chapter-3/
+├── chapter-3/ OOP
 │   ├── introduction.ipynb
 │   ├── Object Oriented Programming.ipynb
+│
+├── chapter-4/ Making A Website 
+│   ├── Step 1 : Introduction.ipynb
+│   ├── Step 2 : Understanding HTML and CSS.md 
+│   ├── Step 3 : Creating Content using HTML.md
+│ 
+├── chapter-5/ Understanding Github
+│   ├── About Github.md
 │
 └── README.md
 ```
